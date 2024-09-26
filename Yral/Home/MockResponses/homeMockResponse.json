@@ -1,0 +1,82 @@
+{
+    "extraInfoModel": [
+        {
+            "imageURL": "info",
+            "title": "Information",
+            "imageWidth": 22,
+            "imageHeight": 22
+        },
+        {
+            "imageURL": "notification",
+            "title": "Notifications",
+            "imageWidth": 22,
+            "imageHeight": 22
+        }
+    ],
+    "carInfoModel": {
+        "title": "NEAREST CAR",
+        "image": "car",
+        "carName": "Fortuner GF",
+        "imageWidth": 254,
+        "imageHeight": 126,
+        "infoLabel": [
+            {
+                "imageURL": "navigation",
+                "title": ">870km",
+                "imageWidth": 16,
+                "imageHeight": 16
+            },
+            {
+                "imageURL": "petrol",
+                "title": "50L",
+                "imageWidth": 16,
+                "imageHeight": 16
+            }
+        ],
+        "price": "$45,000/h"
+    },
+    "profileModel": {
+        "imageURL": "profile",
+        "title": "Jane Cooper",
+        "amount": "$4,253"
+    },
+    "moreCarModel": {
+        "title": "More Cars",
+        "carModels": [
+            {
+                "title": "Corolla cross",
+                "extraInfoModel": [
+                    {
+                        "imageURL": "navigation",
+                        "title": ">4km",
+                        "imageWidth": 16,
+                        "imageHeight": 16
+                    },
+                    {
+                        "imageURL": "petrol",
+                        "title": "50L",
+                        "imageWidth": 16,
+                        "imageHeight": 16
+                    }
+                ]
+            },
+            {
+                "title": "Iconic 5",
+                "extraInfoModel": [
+                    {
+                        "imageURL": "navigation",
+                        "title": ">8km",
+                        "imageWidth": 16,
+                        "imageHeight": 16
+                    },
+                    {
+                        "imageURL": "battery",
+                        "title": "80%",
+                        "imageWidth": 16,
+                        "imageHeight": 16
+                    }
+                ]
+            }
+        ]
+    }
+}
